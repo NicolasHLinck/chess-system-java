@@ -53,7 +53,7 @@ public class Main {
 
             }
         } UI.clearScreen();
-        UI.printMatch(chessMatch,captured    d2);
+        UI.printMatch(chessMatch,captured);
 
     }
 }
